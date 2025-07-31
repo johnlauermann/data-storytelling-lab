@@ -16,6 +16,8 @@ Claudia Berger, _Data physicalization_ (April 9)
 
 
 
-<img width="540" height="109" align="center" alt="DSL Marketing-8-DSL_Logo_Black_Secondary" src="https://github.com/user-attachments/assets/5ffcf0fa-6bd2-43fa-852c-d95b0198fbf9" />
+
+
+<img width="540" height="109" align="right" alt="DSL Marketing-8-DSL_Logo_Black_Secondary" src="https://github.com/user-attachments/assets/5ffcf0fa-6bd2-43fa-852c-d95b0198fbf9" />
 
 
