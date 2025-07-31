@@ -4,7 +4,6 @@
 Thank you for agreeing to lead a workshop -- and develop a tutorial -- for the Data Storytelling Lab! This repository provides a basic template for use when preparing your workshop materials. 
 <br>
 <br>
-<br>
 ## The basic structure
 While the specific content and organization is entirely up to you, we as that your tutorial repository include some standard elements. These elements support replicability for faculty who may want to teach with your materials, and facilitate learning comprehension for students who may be exploring on their own. 
 
@@ -13,7 +12,6 @@ Each repository should include:
 - one or more code templates, written with literate programming best practices and annotated for step-by-step explanation
 - replication data if relevant
 - information on reproducibility
-<br>
 <br>
 <br>
 
@@ -31,7 +29,6 @@ Potentially useful reading:
 - Pratt Institute Center for Teaching and Learning, "Lesson Planning Frameworks", _The Art and Architecture of Teaching and Learning: A Course Design Resource Hub_, https://prattctl.org/course-design/
 <br>
 <br>
-<br>
 
 ## Code templates
 The specific structure and content of your code templates will of course vary based on the languages used and the nature of the workflow. But please be sure to integrate literate programming and data science pedagogy best practices throughout. Those best practices include:
@@ -43,7 +40,6 @@ The specific structure and content of your code templates will of course vary ba
 Potentially useful reading: 
 - [Candela, G. et al. (2023). An approach to assess the quality of Jupyter projects published by GLAM institutions. Journal of the Association for Information Science and Technology, 74(13), 1550–1564.](https://drive.google.com/file/d/1HB40Aga9brU7U5nJS1EBwwfIWBYooMOX/view?usp=sharing)
 - [Trisovic, Ana, et al. (2022) A large-scale study on research code quality and execution. Scientific Data 9: 60](https://drive.google.com/file/d/137ig_nDWtXIVwsFRoDvxZgDV1TV8oAXf/view?usp=sharing)
-<br>
 <br>
 <br>
 
