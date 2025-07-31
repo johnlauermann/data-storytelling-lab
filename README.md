@@ -14,9 +14,10 @@ This repository hosts teaching materials produced by the Data Storytelling Lab a
 - TBD (March 12) 
 - Claudia Berger, _Data physicalization_ (April 9)
 
-/
-/
-/
+
+
+
+
 
 
 
