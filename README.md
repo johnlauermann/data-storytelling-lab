@@ -7,14 +7,16 @@ This repository hosts teaching materials produced by the Data Storytelling Lab a
 
 
 ## Workshops, 2025-2026 Academic Year
-Filipa Calado, _Text analysis in Python_ (September 18)
-John Decker, _Working with Data Manually_ (October 16)
-John Lauermann, _Using the Census API_ (November 20)
-TBD (February 12)
-TBD (March 12) 
-Claudia Berger, _Data physicalization_ (April 9)
+- Filipa Calado, _Text analysis in Python_ (September 18)
+- John Decker, _Working with Data Manually_ (October 16)
+- John Lauermann, _Using the Census API_ (November 20)
+- TBD (February 12)
+- TBD (March 12) 
+- Claudia Berger, _Data physicalization_ (April 9)
 
-
+/
+/
+/
 
 
 
