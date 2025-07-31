@@ -2,7 +2,8 @@
 #### Authored by: John Lauermann, School of Information, Pratt Institute
 #### Last updated: July 2025
 Thank you for agreeing to lead a workshop -- and develop a tutorial -- for the Data Storytelling Lab! This repository provides a basic template for use when preparing your workshop materials. 
-
+<br>
+<br>
 
 ## The basic structure
 While the specific content and organization is entirely up to you, we as that your tutorial repository include some standard elements. These elements support replicability for faculty who may want to teach with your materials, and facilitate learning comprehension for students who may be exploring on their own. 
