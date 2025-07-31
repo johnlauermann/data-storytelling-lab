@@ -15,7 +15,7 @@ Each repository should include:
 
 
 
-### readme
+## readme
 The markdown document will be the first document that a user reads when encountering your tutorial. Thus it needs to perform several kinds of interpretive work for explaining what the tutorial does, how to replicate the process, and why the tools used are relevant and useful. 
 
 Relevant content might include: 
@@ -32,7 +32,7 @@ Pratt Institute Center for Teaching and Learning, "Lesson Planning Frameworks", 
 
 
 
-### Code templates
+## Code templates
 The specific structure and content of your code templates will of course vary based on the languages used and the nature of the workflow. But please be sure to integrate literate programming and data science pedagogy best practices throughout. Those best practices include:
 - Clearly indicate the order in which a student should proceed, for example by numbering files sequentially
 - Use descriptive and easy-to-understand names for folders, files, functions, and variables
@@ -47,7 +47,7 @@ Potentially useful reading:
 
 
 
-### Replication materials
+## Replication materials
 Your repository should include all necessary information for a student to reproduce the workflow. This could mean including a folder with relevant replication data. Or it could mean providing other clear guildeines for accessing data, such as using API calls to ingest data directly into a code template. However you decide to structure this, please keep in mind the following best practices:
 - Include a 'how to replicate this' paragraph somewhere in the repostitory, for example in the `readme.md`
 - Use APIs when relevant to reduce the raw data needing storage. If you do, please be sure to clearly explain how to use the API in the code template (including where to obtain keys or tokens, and how to configure and customize the query)
