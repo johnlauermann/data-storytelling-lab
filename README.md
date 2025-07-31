@@ -14,4 +14,5 @@ TBD (February 12)
 TBD (March 12) 
 Claudia Berger, _Data physicalization_ (April 9)
 
-![Uploading DSL Marketing-8-DSL_Logo_Black_Secondary.png…]():
+
+<img width="1080" height="1080" align="right" alt="DSL Marketing-8-DSL_Logo_Black_Secondary" src="https://github.com/user-attachments/assets/6b01e9fa-da8d-46c2-9c1d-cf39c21e4cac" />
