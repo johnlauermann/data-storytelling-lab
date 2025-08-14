@@ -1,6 +1,7 @@
-# Data Storytelling Lab
-
 <img width="540" height="109" align="center" alt="DSL Marketing-8-DSL_Logo_Black_Secondary" src="https://github.com/user-attachments/assets/5ffcf0fa-6bd2-43fa-852c-d95b0198fbf9" />
+
+
+# Data Storytelling Lab
 
 #### Led by: [Kathy Carbone](https://www.pratt.edu/people/kathy-carbone/) & [John Lauermann](https://www.pratt.edu/people/john-lauermann/)
 #### [School of Information](https://www.pratt.edu/information/), Pratt Institute
