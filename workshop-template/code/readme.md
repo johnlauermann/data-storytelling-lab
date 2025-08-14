@@ -1,5 +1,5 @@
-# Code template ideas
-The specific structure and content of your code templates will of course vary based on the languages used and the nature of the workflow. But please be sure to integrate literate programming and data science pedagogy best practices throughout. Those best practices include:
+# Ideas for your code templates
+The specific structure and content of your code will of course vary based on the languages used and the nature of the workflow. But please be sure to integrate literate programming and data science pedagogy best practices throughout. Those best practices include:
 - Clearly indicate the order in which a student should proceed, for example by numbering files sequentially
 - Use descriptive and easy-to-understand names for folders, files, functions, and variables
 - Annotate each section of the code to explain what is happening and how it fits within the workflow
