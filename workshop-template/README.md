@@ -37,7 +37,6 @@ The specific structure and content of your code templates will of course vary ba
 
 Potentially useful reading: 
 - [Candela, G. et al. (2023). An approach to assess the quality of Jupyter projects published by GLAM institutions. Journal of the Association for Information Science and Technology, 74(13), 1550–1564.](https://drive.google.com/file/d/1HB40Aga9brU7U5nJS1EBwwfIWBYooMOX/view?usp=sharing)
-- [Trisovic, Ana, et al. (2022) A large-scale study on research code quality and execution. Scientific Data 9: 60](https://drive.google.com/file/d/137ig_nDWtXIVwsFRoDvxZgDV1TV8oAXf/view?usp=sharing)
 <br>
 
 ## Replication materials
@@ -49,4 +48,7 @@ Your repository should include relevant information for a student to reproduce t
  ```console
  if (!require(dplyr)) install.packages("dplyr")
 ```
-  
+
+Potentially useful reading: 
+- [Trisovic, Ana, et al. (2022) A large-scale study on research code quality and execution. Scientific Data 9: 60](https://drive.google.com/file/d/137ig_nDWtXIVwsFRoDvxZgDV1TV8oAXf/view?usp=sharing)
+<br>
