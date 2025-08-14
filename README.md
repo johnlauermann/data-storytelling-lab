@@ -1,6 +1,6 @@
-<img width="540" height="109" align="right" alt="DSL Marketing-8-DSL_Logo_Black_Secondary" src="https://github.com/user-attachments/assets/5ffcf0fa-6bd2-43fa-852c-d95b0198fbf9" />
-
 # Data Storytelling Lab
+
+<img width="540" height="109" align="center" alt="DSL Marketing-8-DSL_Logo_Black_Secondary" src="https://github.com/user-attachments/assets/5ffcf0fa-6bd2-43fa-852c-d95b0198fbf9" />
 
 #### Led by: [Kathy Carbone](https://www.pratt.edu/people/kathy-carbone/) & [John Lauermann](https://www.pratt.edu/people/john-lauermann/)
 #### [School of Information](https://www.pratt.edu/information/), Pratt Institute
@@ -15,14 +15,6 @@ This repository hosts teaching materials produced by the Data Storytelling Lab a
 - TBD (February 12)
 - TBD (March 12) 
 - [Claudia Berger](https://www.pratt.edu/people/claudia-berger/), _Data physicalization_ (April 9)
-
-
-
-
-
-
-
-
 
 
 
