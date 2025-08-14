@@ -1,11 +1,11 @@
 # Guidelines for Data Storytelling Lab Workshops
 #### Authored by: John Lauermann, School of Information, Pratt Institute
 #### Last updated: July 2025
-Thank you for agreeing to lead a workshop -- and develop a tutorial -- for the Data Storytelling Lab! This repository provides a basic template for use when preparing your workshop materials. 
+Thank you for agreeing to lead a workshop for the Data Storytelling Lab! This repository provides a basic template for use when preparing your workshop materials. 
 <br>
 <br>
 ## The basic structure
-While the specific content and organization is entirely up to you, we as that your tutorial repository include some standard elements. These elements support replicability for faculty who may want to teach with your materials, and facilitate learning comprehension for students who may be exploring on their own. 
+While the specific content and organization is entirely up to you, we ask that your tutorial repository include some standard elements. These elements support replicability for faculty who may want to teach with your materials, and facilitate learning comprehension for students who may be exploring on their own. 
 
 Each repository should include:
 - a `readme.md` file that identifies learning outcomes and explains the structure of the workshop
@@ -44,10 +44,10 @@ Potentially useful reading:
 <br>
 
 ## Replication materials
-Your repository should include all necessary information for a student to reproduce the workflow. This could mean including a folder with relevant replication data. Or it could mean providing other clear guildeines for accessing data, such as using API calls to ingest data directly into a code template. However you decide to structure this, please keep in mind the following best practices:
+Your repository should include relevant information for a student to reproduce the workflow. This could mean including a folder with relevant replication data. Or it could mean providing other clear guildeines for accessing data, such as using API calls to ingest data directly into a code template. However you decide to structure this, please keep in mind the following best practices:
 - Include a 'how to replicate this' paragraph somewhere in the repostitory, for example in the `readme.md`
-- Use APIs when relevant to reduce the raw data needing storage. If you do, please be sure to clearly explain how to use the API in the code template (including where to obtain keys or tokens, and how to configure and customize the query)
-- Use relative path structures and project-oriented workflows whenever possible (e.g., building relative paths with 'here' in R, rather than less replicable tools like `setwd()`
+- Use APIs when relevant to reduce the raw data needing organization and storage. Please be sure to clearly explain how to use the API in the code template (including how to obtain keys, and how to configure the query)
+- Use relative path structures and project-oriented workflows when possible (e.g., building relative paths with 'here' in R, rather than less replicable tools like `setwd()`
 - Include documentation on versions and dependencies. For example, this could mean adding a `requirements.txt` file for Python workflows, or adding relevant installations into an R script such as
  ```console
  if (!require(dplyr)) install.packages("dplyr")
