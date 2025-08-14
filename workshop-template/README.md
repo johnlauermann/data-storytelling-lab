@@ -1,6 +1,6 @@
 # Guidelines for Data Storytelling Lab Workshops
 #### Authored by: John Lauermann, School of Information, Pratt Institute
-#### Last updated: July 2025
+#### Last updated: August 2025
 Thank you for agreeing to lead a workshop for the Data Storytelling Lab! This repository provides a basic template for use when preparing your workshop materials. 
 <br>
 <br>
